@@ -31,7 +31,7 @@
 #ifndef OPJ_STDINT_H
 #define OPJ_STDINT_H
 
-#include "opj_config.h"
+//#include "opj_config.h"
 #ifdef OPJ_HAVE_STDINT_H
 #include <stdint.h>
 #else
